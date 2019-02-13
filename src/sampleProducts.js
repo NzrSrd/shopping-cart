@@ -1,0 +1,67 @@
+
+module.exports = {
+     p1: {
+         id: 1,
+         item: 'White Sofa',
+        price: 324,
+        currency: '$',
+        description: 'Beautiful White Sofa. Comfortable and affordable',
+        srcImage: '/image/white-sofa.jpg',
+    },
+    p2: {
+        id: 2,
+        item: 'Black Sofa',
+        price: 567,
+        currency: '$',
+        description: 'Beautiful Black Sofa. Comfortable and Expensive',
+        srcImage: '/image/black-sofa.jpg',
+    },
+    p3:  {
+        id: 3,
+        item: 'Brown Sofa',
+        price: 789,
+        currency: '$',
+        description: 'Beautiful Brown Sofa. Comfortable and very Expensive',
+        srcImage: '/image/brown-sofa.jpeg',
+    },
+    p4:  {
+        id: 4,
+        item: 'Red Sofa',
+        price: 1789,
+        currency: '$',
+        description: 'Beautiful Red Sofa. Comfortable and very Expensive',
+        srcImage: '/image/red-sofa.jpg',
+    },
+    p5:  {
+        id: 5,
+        item: 'Yellow Sofa',
+        price: 2500,
+        currency: '$',
+        description: 'Beautiful Yellow Sofa. Comfortable and very Expensive',
+        srcImage: '/image/yellow-sofa.jpg',
+    },
+    p6:  {
+        id: 6,
+        item: 'Yellow Chair',
+        price: 2789,
+        currency: '$',
+        description: 'Beautiful Yellow Chair. Comfortable and very Expensive but worth every piny',
+        srcImage: '/image/yellow-chair.jpg',
+    },
+    p7:  {
+        id: 7,
+        item: 'Green Sofa',
+        price: 1789,
+        currency: '$',
+        description: 'Beautiful Green Sofa. Comfortable and very Expensive',
+        srcImage: '/image/green-sofa.jpg',
+    },
+    p8:  {
+        id: 8,
+        item: 'Rosa Sofa',
+        price: 1789,
+        currency: '$',
+        description: 'Beautiful Rose Sofa. Comfortable and very Expensive',
+        srcImage: '/image/rosa-sofa.jpg',
+    }
+};

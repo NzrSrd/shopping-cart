@@ -1,0 +1,16 @@
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+body {
+  font-family: "Courier New";
+  background-color: lightgrey;
+}
+header{
+  margin-bottom: 2%;
+}
+.product {
+  border: 1px solid red !important;
+
+}
+.product1 {
+  border: 1px solid green !important;
+}
